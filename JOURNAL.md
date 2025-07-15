@@ -452,3 +452,12 @@ GOALS:
 
 **TIME: 30m**
 
+# 7/13/25
+
+- started assembly by superglueing halves, and sadly even though i added .5mm clearence for the standoffs, they still didn't fit :C (and some screw holes were pretty badly printed, so I decided to just glue things like the plate together, and for the final assembly I'd probably just tape the top and bottom together for easy access
+- The super glue took a long while to dry, so it took a couple of tries to get right
+- assembled keys and stabs!!
+
+<img width="1727" height="1296" alt="image" src="https://github.com/user-attachments/assets/b13e148a-4b8b-4a39-92f2-cb2553eb757c" />
+
+ **time: 2h20m**
