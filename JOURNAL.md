@@ -461,3 +461,13 @@ GOALS:
 <img width="1727" height="1296" alt="image" src="https://github.com/user-attachments/assets/b13e148a-4b8b-4a39-92f2-cb2553eb757c" />
 
  **time: 2h20m**
+
+# 7/18/25
+
+- Soldered all of the columns, which took a long while because i had to manually cut insulation off at the points of intersection
+- When I transitioned to making the keyboard wired, I forgot to account for the change in GPIO pins, which meant I was one over the maximum I could use with a PI pico. To solve this, I did some more unconventional rows and columns, which seems to solve the issue
+
+  ![unnamed](https://github.com/user-attachments/assets/e4d46c38-ceaf-4a01-b2c8-1f0c0e25c4df)
+
+
+**time 6h**
