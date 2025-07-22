@@ -481,3 +481,17 @@ GOALS:
 
 
 **Time: 2h30m**
+
+# 7/22/25
+
+- Finished cutting, soldering, and doing everything related to the rows!
+
+![20250722_171500](https://github.com/user-attachments/assets/b44f0999-0ca8-47b0-a325-11bff2a8d488)
+
+
+- The solder still sticked more to the iron tip, which wasn't happening for the columns (probably because that old tip become oxidized, and this is a new one)
+- Even at 375 C, the 99.3 tin 0.7 copper solder spiked on the iron
+
+![20250722_152859](https://github.com/user-attachments/assets/607fb7ba-f0b7-472b-850f-c242b3cf0cfb)
+
+**time 5h**
