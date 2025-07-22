@@ -471,3 +471,13 @@ GOALS:
 
 
 **time 6h**
+
+# 7/21/25
+
+- Clipped off one end of all diodes and then proceeded to solder them all onto the keyswitches
+- One thing that was completely unexpected was the solder sticking more to the iron rather than the pin, and I literally had to shake off the solder. Also, the tip kept becoming rusted within around a minute of active use, which was pretty annoying
+
+![1000007893](https://github.com/user-attachments/assets/ce1990c3-6290-4736-a571-3d66cf12aa8a)
+
+
+**Time: 2h30m**
