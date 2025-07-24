@@ -495,3 +495,14 @@ GOALS:
 ![20250722_152859](https://github.com/user-attachments/assets/607fb7ba-f0b7-472b-850f-c242b3cf0cfb)
 
 **time 5h**
+
+# 7/23/25
+
+- Done soldering all the connections to the pi Pico while using a different tip, which helped avoid the sticking issue for some reason (with the same iron)
+  
+<img width="1255" height="1313" alt="image" src="https://github.com/user-attachments/assets/fee80f72-f5f7-4603-8ccc-fa35caeb719a" />
+
+- The main difficulties here came from soldering the tiny D+ and D- pads, which was something I wasn't used to (I had pretty much only done THT soldering before), and due to my own stupid mistakes
+- For one wire, I accidently soldered it to ground, and desoldering it was a pain, so I decided to block off all the other grounds with solder, however, I accidently blocked off a GPIO pin, which made me have to solder the wire like I did with the pads instead of what I was used to.
+
+**TIME: 4h15m**
