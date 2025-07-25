@@ -6,6 +6,8 @@
 - Description: The MacroBoard is an extension of a much smaller "macropad" featuring a **full TKL layout** with a **rotary encoder** for volume and a whopping total of **22 macro keys** (10 macrokeys physically and 12 more due to the fn keys being on another layer).
 - Creation Date: 6/8/2025
 - Total Time (before building):39 hours 40 minutes 
+- Build time: 21h 50m
+- final time: 61.5h
 
 # 6/8/2025
 I started the general planning for the design criteria and also started sourcing some of the parts needed to create the keyboard. This took a lot longer than I expected, and I didn't realise how much actually had to go to making a full-sized keyboard, even after making a macropad before this.  
@@ -506,3 +508,25 @@ GOALS:
 - For one wire, I accidently soldered it to ground, and desoldering it was a pain, so I decided to block off all the other grounds with solder, however, I accidently blocked off a GPIO pin, which made me have to solder the wire like I did with the pads instead of what I was used to.
 
 **TIME: 4h15m**
+
+# 7/24/25
+
+- Finished keyboard!!!
+- Was pretty easy to make the code, due to already having made a macropad, but the one thing I had to do would be to prevent electrical shorts
+
+- To solve this problem I used a "sophisticated" method called "clear tape"
+![20250724_164312](https://github.com/user-attachments/assets/c1c8a858-7517-4665-bb9b-b6d6c9a7af71)
+
+- Also, the wires made it so the case wouldn't properly rest flat, but remember the standoffs that didn't fit earlier? They were the *perfect* height for the keyboard top the rest, so I just used those
+
+![20250724_221941](https://github.com/user-attachments/assets/6fb70a7b-683f-4fd0-ad59-fd6226d56786)
+
+- Here is a picture and video of the final product!
+
+![20250724_221914](https://github.com/user-attachments/assets/612c4e88-c112-44d3-8756-bdda8b6674d6)
+
+https://youtube.com/shorts/OhP7P0TbwBU?feature=share
+
+**time: 1h45m**
+
+
